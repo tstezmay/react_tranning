@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tstezmay/react_tranning#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
